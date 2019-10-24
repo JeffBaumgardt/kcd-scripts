@@ -134,6 +134,25 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "coderberry",
+      "name": "Eric Berry",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/12481?v=4",
+      "profile": "https://codefund.io",
+      "contributions": [
+        "fundingFinding"
+      ]
+    },
+    {
+      "login": "schaab",
+      "name": "Jared Schaab",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1103255?v=4",
+      "profile": "https://github.com/schaab",
+      "contributions": [
+        "code",
+        "test"
+      ]
     }
   ],
   "repoType": "github",
